@@ -31,7 +31,6 @@ def downVideo():
         file.close()
         print(i+"文件下载成功")
 
-
 def readAllFileName():
     filename = "F:\\Down\\da.txt"
     allName = []
